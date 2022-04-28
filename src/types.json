@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": { "tr": "Gıda", "en": "Food" }
+  },
+  {
+    "id": 2,
+    "title": { "tr": "Moda", "en": "Fashion" }
+  },
+  {
+    "id": 3,
+    "title": { "tr": "Ulaşım", "en": "Transportation" }
+  },
+  {
+    "id": 4,
+    "title": { "tr": "Teknoloji", "en": "Technology" }
+  },
+  {
+    "id": 5,
+    "title": { "tr": "Koleksiyon", "en": "Collection" }
+  }
+]

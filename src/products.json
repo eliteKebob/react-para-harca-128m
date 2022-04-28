@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": { "tr": "Sakız", "en": "Gum" },
+    "price": 0.5,
+    "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg",
+    "type": { "tr": "Gıda", "en": "Food" }
+  },
+  {
+    "id": 2,
+    "title": { "tr": "Kola", "en": "Soda" },
+    "price": 6,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg",
+    "type": { "tr": "Gıda", "en": "Food" }
+  },
+  {
+    "id": 3,
+    "title": { "tr": "Ayakkabı", "en": "Shoe" },
+    "price": 400,
+    "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg",
+    "type": { "tr": "Moda", "en": "Fashion" }
+  },
+  {
+    "id": 4,
+    "title": { "tr": "Araba", "en": "Car" },
+    "price": 40000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg",
+    "type": { "tr": "Ulaşım", "en": "Transportation" }
+  },
+  {
+    "id": 5,
+    "title": { "tr": "Gemi", "en": "Boat" },
+    "price": 80000000,
+    "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png",
+    "type": { "tr": "Ulaşım", "en": "Transportation" }
+  },
+  {
+    "id": 6,
+    "title": { "tr": "iPhone 13", "en": "iPhone 13" },
+    "price": 18000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/ip-3_large.jpg",
+    "type": { "tr": "Teknoloji", "en": "Technology" }
+  },
+  {
+    "id": 7,
+    "title": { "tr": "AirPods", "en": "AirPods" },
+    "price": 1900,
+    "image": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mme73tua-apple-airpods-3-nesil-mme73tua-637704980620888470.jpg",
+    "type": { "tr": "Teknoloji", "en": "Technology" }
+  },
+  {
+    "id": 8,
+    "title": { "tr": "iPad Pro", "en": "iPad Pro" },
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg",
+    "type": { "tr": "Teknoloji", "en": "Technology" }
+  },
+  {
+    "id": 9,
+    "title": { "tr": "Çanta", "en": "Bag" },
+    "price": 1500000,
+    "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg",
+    "type": { "tr": "Moda", "en": "Fashion" }
+  },
+  {
+    "id": 10,
+    "title": { "tr": "Elmas", "en": "Diamond" },
+    "price": 157878777,
+    "image": "https://www.bilgiustam.com/resimler/2017/12/10841_elmas-05.jpg",
+    "type": { "tr": "Koleksiyon", "en": "Collection" }
+  },
+  {
+    "id": 11,
+    "title": { "tr": "Mona Lisa Tablosu", "en": "Mona Lisa Artwork" },
+    "price": 2000000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg",
+    "type": { "tr": "Koleksiyon", "en": "Collection" }
+  },
+  {
+    "id": 12,
+    "title": { "tr": "Ekmek", "en": "Bread" },
+    "price": 0.1,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg",
+    "type": { "tr": "Gıda", "en": "Food" }
+  }
+]
